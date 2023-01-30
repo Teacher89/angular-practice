@@ -1,0 +1,12 @@
+h2 {
+    color: firebrick;
+}
+
+p {
+    font-style: italic;
+}
+
+img {
+    width: 200px;
+    padding: 0 25px;
+}
